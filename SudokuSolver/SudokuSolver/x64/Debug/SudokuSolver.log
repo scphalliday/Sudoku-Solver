@@ -1,0 +1,10 @@
+﻿  Cell.cpp
+c:\users\steven\desktop\sudokusolver\sudokusolver\cell.h(19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CellGroup.cpp
+c:\users\steven\desktop\sudokusolver\sudokusolver\cell.h(19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+c:\users\steven\desktop\sudokusolver\sudokusolver\cell.h(19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SudokuPuzzle.cpp
+c:\users\steven\desktop\sudokusolver\sudokusolver\cell.h(19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SudokuSolver.vcxproj -> C:\Users\Steven\Desktop\SudokuSolver\x64\Debug\SudokuSolver.exe
